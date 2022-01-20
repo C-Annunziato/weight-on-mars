@@ -7,7 +7,7 @@ import android.widget.EditText
 import android.widget.TextView
 import org.w3c.dom.Text
 
-class MainActivity : AppCompatActivity() {~g
+class MainActivity : AppCompatActivity() {
 
     val marsGravity = 0.38
 
